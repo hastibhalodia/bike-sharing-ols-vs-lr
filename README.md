@@ -1,6 +1,3 @@
-Here’s the complete **README.md** ready for your project, structured neatly and including the dataset link you provided:
-
-````markdown
 #  Bike Sharing Demand Analysis: Linear Regression & OLS
 
 ##  Project Overview
