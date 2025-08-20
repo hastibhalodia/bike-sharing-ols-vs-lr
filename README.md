@@ -67,7 +67,7 @@ This project analyzes the Bike Sharing dataset to understand how **temperature**
 
 ##  Usage Instructions
 1. Clone the repository:
-   git clone https://github.com/your-username/bike-sharing-analysis.git
+   git clone [https://github.com/your-username/bike-sharing-analysis.git](https://github.com/hastibhalodia/bike-sharing-ols-vs-lr)
 
 2. Download the dataset and place `day.csv` in the project directory.
 3. Install dependencies:
