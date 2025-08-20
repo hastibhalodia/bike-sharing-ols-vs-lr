@@ -67,35 +67,20 @@ This project analyzes the Bike Sharing dataset to understand how **temperature**
 
 ##  Usage Instructions
 1. Clone the repository:
-   ```bash
    git clone https://github.com/your-username/bike-sharing-analysis.git
-````
 
 2. Download the dataset and place `day.csv` in the project directory.
 3. Install dependencies:
-
-   ```bash
    pip install pandas numpy scikit-learn matplotlib seaborn statsmodels
-   ```
+ 
 4. Run the notebook:
-
-   ```bash
    jupyter notebook Bike_sharing_analysis_Using_OLS_and_Linear_Regression.ipynb
-   ```
+   
 
 ## Repository Structure
 
-```
 ├── Bike_sharing_analysis_Using_OLS_and_Linear_Regression.ipynb
 ├── README.md
-```
 
-## Author
 
-**Hasti Bhalodia** — B.Tech in AI & ML | Data Science & Research Enthusiast
 
-```
-
-Let me know if you’d like a **concise summary version**, an added **requirements.txt**, or any other enhancements for your project!
-::contentReference[oaicite:0]{index=0}
-```
